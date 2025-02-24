@@ -27,8 +27,8 @@ Um sistema simples e eficiente para gerenciar receitas e despesas, proporcionand
 ### 🔹 Clonando o Repositório
 
 ```sh
-git clone https://github.com/R4ffz/controle_gastos.git
-cd controle_gastos
+git clone https://github.com/R4ffz/controle-gastos.git
+cd controle-gastos
 ```
 
 ### 🔹 Configurando o Backend
