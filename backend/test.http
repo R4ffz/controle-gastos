@@ -1,0 +1,11 @@
+
+
+POST http://localhost:5000/transacoes
+Content-Type: application/json
+
+{
+  "descricao": "Teste",
+  "valor": 100,
+  "tipo": "receita",
+  "pessoa": "67ae7699bd26cee4e9c29faa"
+}
