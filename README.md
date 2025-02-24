@@ -48,7 +48,7 @@ PORT=5000
 - Iniciar o servidor backend:
 
 ```sh
-npm start
+server node.js
 ```
 
 ### 🔹 Configurando o Frontend
